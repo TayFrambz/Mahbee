@@ -97,6 +97,7 @@
     .headerContainer p {
       font-size: 30px;
       color: white;
+      padding: 20px;
     }
   
     .headerContainer button {
