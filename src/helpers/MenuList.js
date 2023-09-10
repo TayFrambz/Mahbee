@@ -29,12 +29,12 @@ import BoloConfeitado from "../assets/bee-001.webp";
 
 export const MenuList = [
     {
-        name: "Palha tradicional",
+        name: "Palha italiana tradicional",
         image: PalhaTradicional,
         price: "R$ 6,00"
     },
     {
-        name: "Ninho com Nutella",
+        name: "Palha de Ninho com Nutella",
         image: PalhaNinho,
         price: "R$ 6,00"
     },

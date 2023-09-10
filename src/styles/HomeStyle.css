@@ -13,6 +13,7 @@
   }
   
   .headerContainer {
+    background-color: transparent;
     width: 60%;
     height: 50%;
     background-size: cover;
@@ -36,18 +37,21 @@
     height: 60px;
     font-weight: 50;
     color: rgb(250, 247, 247);
+    background-color: transparent;
   }
   
   .headerContainer p {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    padding: 0;
+    padding: 10px;
+    margin-top: 50px;
     font-size: 40px;
     font-weight: lighter;
     color: rgb(253, 250, 250);
+    background-color: transparent;
   }
   
   .headerContainer button {
-    color: rgb(243, 187, 4);
+    color: none;
     border: none;
     border-radius: 5px;
     cursor: pointer;
